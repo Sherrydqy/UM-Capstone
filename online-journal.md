@@ -17,6 +17,11 @@ There are two types of design precedents:
 
 ![feature audit](/Assets/featureAudit.png)
 ​
+Based on the result of the feature audit, I identified the biggest gap of the current products which is **a lack of interpretation of the relations through graphical overviews**.
+
+From all findings above, I came up with my design questions for this project:
++ How might we better communicate the relationships of content between tabs to help recall the context of the previous search of a topic?
++ How might we make the process of search-based multitasking more effective?
 
 ​
 ---

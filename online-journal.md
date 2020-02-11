@@ -13,9 +13,9 @@ Before conducting my interviews, I thought about what I wanted to get out of thi
 > CENTRAL QUESTIONS: 
 > - What kind of relationships of content between tabs help users recall the context of a previous web-based academic search?
 > - What kind of visual elements do they use to develop the relationships?
-
+>
 > TYPE OF INTERVIEW: Semi-structure
-
+>
 > DATA ANALYSIS TYPE: Thematic analysis
 
 Then I began thinking about the questions that can help me get the answers to the central questions. Because this was the first time writing interview questions, I had a really hard time finding out what kind of questions to ask. My first version of the discussion guide totally failed in my pilot test. After several iterations, I finally found out what questions to ask that can actually help me to get the answers to the central questions. The same with the demographic survey.
@@ -26,7 +26,8 @@ Then I began thinking about the questions that can help me get the answers to th
 + Types of the Relationships between tabs
 + Visual Hints used to identify the Relationships
 + Previous Experience with Tab Management Tools
-+ Turns out this new version actually went out really well!
+
+Turns out this new version actually went out really well! 
 
 During the winter break and the first week of the spring semester, I finished 10 interviews, 5 in China and the other 5 in the U.S.
 ---

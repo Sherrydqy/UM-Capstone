@@ -1,7 +1,8 @@
 # UM-Capstone - Online-Journal
-
-## Secondary Research  #### Oct. 26th, 2019 - Nov. 15th, 2019
 ---
+##### Oct. 26th, 2019 - Nov. 15th, 2019
+## Secondary Research  
+
 ### Motivation
 This idea comes from my own story. I have been suffering from having too many tabs open on my browser for a long time. I cannot either finish reading a tab given the limited amount of time or feel comfortable closing any tabs. I always have a fear of losing the information I have read. Therefore, I decided to come up with a solution to it.
 
@@ -30,12 +31,9 @@ I looked up the previous work of tab using behavior and best practice for improv
 * Graphical overview interface supported flexible navigation across web pages 
 * Graphical-overview supports the interpretation of inter-textual relations between web pages
 
-​
-
 Design implications informed by the insights above are as follows:
 
 Web features should allow users to...
-
 * access, refine, and use results from a previous search within the confines of a session across multiple topics.
 * add notes to different or related search topics
 * easily track multiple queries concurrently on different or related topics 

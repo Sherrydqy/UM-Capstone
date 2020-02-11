@@ -1,9 +1,7 @@
-# UM-Capstone
-Online-Journal
+# UM-Capstone - Online-Journal
 
-## Secondary Research
-#### Oct. 26th, 2019 - Nov. 15th, 2019
-
+## Secondary Research  #### Oct. 26th, 2019 - Nov. 15th, 2019
+---
 ### Motivation
 This idea comes from my own story. I have been suffering from having too many tabs open on my browser for a long time. I cannot either finish reading a tab given the limited amount of time or feel comfortable closing any tabs. I always have a fear of losing the information I have read. Therefore, I decided to come up with a solution to it.
 
@@ -23,7 +21,7 @@ This project aims to investigate how users develop associations of content betwe
 ### Coming up with a research question
 *What design elements improve the communication of relationships between tabs for web-based research?*
 
-## Insights from the secondary research
+### Insights from the secondary research
 I looked up the previous work of tab using behavior and best practice for improving the effectiveness of information gathering when using tabs on web-based search. The insights from the existing research include:
 
 * Multitasking information behavior ranges over multiple topics 

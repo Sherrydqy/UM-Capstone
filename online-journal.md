@@ -1,5 +1,5 @@
 # UM Capstone - Online Journal #
-### **By Qinyu Ding** ###
+**By Qinyu Ding**
 ---
 
 ##### Oct. 26th, 2019 - Nov. 15th, 2019
@@ -22,7 +22,7 @@ However, tabs can not optimize web-based search because they fail to address the
 This project aims to investigate how users develop associations of content between tabs while doing web-based search and to identify factors that hinder this process in context switching. The final goal is to develop a tab management tool that optimizes the process to increase the effectiveness of parallel browsing in web-based search.
 
 ### Coming up with a research question
-*What design elements improve the communication of relationships between tabs for web-based research?*
+> What design elements improve the communication of relationships between tabs for web-based research?
 
 ### Insights from the secondary research
 I looked up the previous work of tab using behavior and best practice for improving the effectiveness of information gathering when using tabs on web-based search. The insights from the existing research include:

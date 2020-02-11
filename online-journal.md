@@ -1,5 +1,6 @@
-# UM-Capstone - Online-Journal
----
+# UM Capstone - Online Journal
+**By Qinyu Ding**
+
 
 ##### Oct. 26th, 2019 - Nov. 15th, 2019
 ## Secondary Research  

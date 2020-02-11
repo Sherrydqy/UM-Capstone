@@ -1,5 +1,5 @@
 # UM-Capstone - Online-Journal
-==============================
+---
 
 ##### Oct. 26th, 2019 - Nov. 15th, 2019
 ## Secondary Research  

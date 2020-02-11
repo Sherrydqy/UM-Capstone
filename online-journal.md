@@ -28,6 +28,7 @@ Then I began thinking about the questions that can help me get the answers to th
 + Previous Experience with Tab Management Tools
 
 Turns out this new version actually went out really well! During the winter break and the first week of the spring semester, I finished 10 interviews, 5 in China and the other 5 in the U.S.
+
 ---
 
 ##### Nov 16th, 2019 - Nov. 30th, 2019

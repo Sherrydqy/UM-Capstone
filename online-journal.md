@@ -1,6 +1,5 @@
 # UM Capstone - Online Journal
-
-**By Qinyu Ding**
+### **By Qinyu Ding**
 ---
 
 

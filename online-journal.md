@@ -13,7 +13,7 @@ There are two types of design precedents:
        *E.g.: Toby, Graphitabs, Tabs Outlier, Workona, Feedly, Pocket, Instapaper, Kurator, etc.*
     2. Manually organize the content from tabs
        *E.g.: Evernote, Diigo, Microsoft Word/Google Doc, etc.*
-![feature audit]('/Assets/featureAudit.png')
+![feature audit]('../Assets/featureAudit.png')
 ​
 
 ​

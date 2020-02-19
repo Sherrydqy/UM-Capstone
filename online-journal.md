@@ -23,7 +23,7 @@ I coded all 10 interviews in NVivo and came up with the insights. From my interv
 
 ![Insight 3](/Assets/insights4.png)
 
-![Insight 4](/Assets/inights3.png)
+![Insight 4](/Assets/insights3.png)
 
 ![Insight 5](/Assets/insights2.png)
 

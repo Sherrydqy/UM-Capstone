@@ -2,11 +2,38 @@
 By Qinyu Ding
 
 ---
+##### Feb 1st, 2020 - Feb 18th, 2020
+## Design Explorations
+
+According to my interviews, I mapped out an As-is journey map to help me visualize the current process of web-based academic research and the pin points during the process:
+
+![Journey Map](/Assets/Journey Map.png)
+
+Based on the journey map, I started my ideation to explore design opportunities.
+
+---
+##### Jan 22nd, 2020 - Jan 31st, 2020
+## Analysis of User Interviews
+
+I coded all 10 interviews in NVivo and came up with the insights. From my interviews, I found that:
+
+![Insight 1](/Assets/insights6.png)
+
+![Insight 2](/Assets/insights5.png)
+
+![Insight 3](/Assets/insights4.png)
+
+![Insight 4](/Assets/inights3.png)
+
+![Insight 5](/Assets/insights2.png)
+
+![Insight 6](/Assets/insights1.png)
+---
 ##### Jan 15th, 2020 - Jan 21st, 2020
 ## User Interviews (2/2)
 
 ### Finished the rest 5 interviews.
-This week, I finished my last 5 interviews. Ready for analyzing the interviews!
+This week, I finished my last 5 interviews in the U.S.. Ready for analyzing the interviews!
 ---
 ##### Dec 1st, 2019 - Jan 14th, 2020
 ## User Interviews (1/2)
@@ -31,7 +58,7 @@ Then I began thinking about the questions that can help me get the answers to th
 + Visual Hints used to identify the Relationships
 + Previous Experience with Tab Management Tools
 
-Turns out this new version actually went out really well! During the winter break and the first week of the spring semester, I finished 10 interviews, 5 in China and the other 5 in the U.S.
+Turns out this new version actually went out really well! During the winter break, I finished 5 interviews in China.
 
 ---
 

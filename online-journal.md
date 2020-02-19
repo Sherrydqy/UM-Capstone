@@ -2,10 +2,14 @@
 By Qinyu Ding
 
 ---
+##### Jan 15th, 2020 - Jan 21st, 2020
+## User Interviews (2/2)
 
-
-##### Dec 1st, 2019 - Jan 21st, 2020
-## User Interviews  
+### Finished the rest 5 interviews.
+This week, I finished my last 5 interviews. Ready for analyzing the interviews!
+---
+##### Dec 1st, 2019 - Jan 14th, 2020
+## User Interviews (1/2)
 
 ### Discussion Guide
 Before conducting my interviews, I thought about what I wanted to get out of this interview and how I was going to get there: 

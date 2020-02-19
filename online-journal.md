@@ -8,7 +8,7 @@ By Qinyu Ding
 According to my interviews, I mapped out an As-is journey map to help me visualize the current process of web-based academic research and the pin points during the process:
 
 
-![Journey Map](/Assets/Journey Map.png)
+![Journey Map](/Assets/JourneyMap.png)
 
 Based on the journey map, I started my ideation to explore design opportunities.
 

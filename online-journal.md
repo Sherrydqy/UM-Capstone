@@ -1,17 +1,69 @@
 # UM Capstone - Online Journal #
 By Qinyu Ding
 
+##### March 16th, 2020 - March 29th, 2020
+## Usability Testing II
+With a high-fi and interactive prototype, I conducted a formative usability test with another 5 participants. In the test, the participants were asked to finish 3 tasks using the prototype, including starting a new search, starting another search, and finding a visited tab.s
+
+# Usability Test Task Scenarios
++ *Start a new search* - You want to learn more about Coronavirus. Use the browser to search for the following information:
+  + Coronavirus symptoms (provided by www.cdc.gov)
+  + How to protect from coronavirus(provided by www.cdc.gov)
+
+The findings of the usability test are presented as follows:
++ *[DISLIKE]* The design of all the “Searched for” and topic names is not intuitive, in terms of 1)which tabs are covered by a ”Searched for” keywords, and 2)presenting the relations between the ”Searched for” keyword and the topic of the current tab
++ *[DISLIKE]* The sudden appearance of the pop-up window with categorized topics is confusing – users don’t understand how they got here.
++ *[DISLIKE]* Lack of affordance showing a tab or a “Searched for” section is able to be moved around. Users don’t realize that these are just suggested categorizations which can be manually rearranged.
++ *[DISLIKE]* Having to bookmark a page to save it in TabSanity requires unnecessary extra effort.
++ *[LIKE]* Users like this overview showing the search context of different topics as they are clear and informative.
+
+
+
+
+
+
+
+
+---
+##### March 2nd, 2020 - March 16th, 2020
+## Design Iteration II
+Based on the feedback of the usability tests, I removed the reminder function, changed the requirement of predefining a task before browsing and replaced it with an algorithm that can suggest categorizations based on the keywords used for searches. A pop-up window will show up to present the suggested categories of currently-open tabs. Users can modify and rearrange it before finalizing the sorting. After confirmation, all tabs will be separated into different tasks. The tasks will be displayed in the form of a folder at the top of the browser.
+![Design Iteration1A](/Assets/Design1A.png)
+![Design Iteration1B](/Assets/Design1B.png)
+
+
+---
+##### Feb 19th, 2020 - March 1st, 2020
+## Usability Testing I
+
+Since I'm still at the design exploration phase, I started the first round of usability testing using the low-fi design. I ran a walkthrough with 5 participants to collect their opinions of the design idea. The findings of the usability test are presented as follows:
++ *[DISLIKE]* Having to put a specific topic before starting a search is annoying. Most of the time, users don’t know what exactly they are looking at first since their initial searches are general exploration.
++ *[DISLIKE]* The width of the topic on the left-side bar is too short to read.
++ *[DISLIKE]* The reminder system is adding more to users’ mental effort. It makes them feel like it they’ve got more on their plate.
++ *[LIKE]* Most users showed interest in the keywords captured on the top, saying they would help them to recall the context to some extent.
+
+
 ---
 ##### Feb 1st, 2020 - Feb 18th, 2020
-## Design Explorations
+## Design Iteration I
 
 According to my interviews, I mapped out an As-is journey map to help me visualize the current process of web-based academic research and the pin points during the process:
 
-
 ![Journey Map](/Assets/JourneyMap.png)
+The journey map describes four main insights of user needs:
++ When multitasking, users need to have a general idea of what he/she has been working on and how far did he/she go in order to coordinate between different tasks of varied topics.
++ When they are concentrating on the current topic,  users do not want to be distracted by others.
++ Users need to document their search context which includes search flows (e.g.,where they started, where they have been which are useful, and where they stopped) and the search results (e.g., keywords search result and the linked webpages)
++ Users need to eliminate the feeling of losing the information if they close the tab. Users need to quickly find the relevant information they saw earlier about a topic because they can only think of certain keywords and it takes forever to go through all their notes one by one.
 
-Based on the journey map, I started my ideation to explore design opportunities.
-
+Based on the findings, I came up with the first design solution. The main idea is to provide context for users while they are doing web-based searches. The interviews indicated that the context of different tabs helped trigger users' memories when multitasking and kept them from getting lost in overflowing tabs. It includes features as follows:
++ Capture and display keywords used for searching in order to keep track of the search context
++ Present an overview of the progress of different topic searches.
++ Allow for concentration on the current topic.
++ Add the a webpage to the calendar as a reminder for later review.
+![Design Iteration1A](/Assets/Design1A.png)
+![Design Iteration1B](/Assets/Design1B.png)
+![Design Iteration1C](/Assets/Design1C.png)
 ---
 ##### Jan 22nd, 2020 - Jan 31st, 2020
 ## Analysis of User Interviews

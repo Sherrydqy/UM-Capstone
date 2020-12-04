@@ -5,7 +5,7 @@ By Qinyu Ding
 ## Usability Testing II
 With a high-fi and interactive prototype, I conducted a formative usability test with another 5 participants. In the test, the participants were asked to finish 3 tasks using the prototype, including starting a new search, starting another search, and finding a visited tab.s
 
-# Usability Test Task Scenarios
+### Usability Test Task Scenarios
 + *Start a new search* - You want to learn more about Coronavirus. Use the browser to search for the following information:
   + Coronavirus symptoms (provided by www.cdc.gov)
   + How to protect from coronavirus(provided by www.cdc.gov)

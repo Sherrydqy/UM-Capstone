@@ -11,6 +11,7 @@ I ran the final usability test with 6 participants, using an interactive, high-f
 + **[LIKE]** Different sections of workspace really helps with further organization of the tabs.
 
 Based on the findings, I added a search box to the sidebar allowing for searches across all sections. The Archived section was divided into Archived Workspace and Saved Tabs, which were merged respectively into the Workspace and the Tabs section.
+
 ![Design Iteration Final](/Assets/Final Design1.png)
 ![Design Iteration Final](/Assets/Final Design2.png)
 ![Design Iteration Final](/Assets/Final Design3.png)
@@ -121,6 +122,7 @@ I coded all 10 interviews in NVivo and came up with the insights. From my interv
 ## User Interviews (2/2)
 
 ### Finished the rest 5 interviews.
+
 This week, I finished my last 5 interviews in the U.S.. Ready for analyzing the interviews!
 ---
 ##### Dec 1st, 2019 - Jan 14th, 2020

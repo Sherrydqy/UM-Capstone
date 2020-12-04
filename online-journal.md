@@ -63,8 +63,8 @@ The findings of the usability test are presented as follows:
 ##### Mar 2nd, 2020 - Mar 16th, 2020
 ## Design Iteration II
 Based on the feedback of the usability tests, I removed the reminder function, changed the requirement of predefining a task before browsing and replaced it with an algorithm that can suggest categorizations based on the keywords used for searches. A pop-up window will show up to present the suggested categories of currently-open tabs. Users can modify and rearrange it before finalizing the sorting. After confirmation, all tabs will be separated into different tasks. The tasks will be displayed in the form of a folder at the top of the browser.
-![Design Iteration1A](/Assets/Design1A.png)
-![Design Iteration1B](/Assets/Design1B.png)
+![Design Iteration1A](/Assets/Design2A.png)
+![Design Iteration1B](/Assets/Design2B.png)
 
 
 ---

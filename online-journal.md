@@ -6,7 +6,7 @@
 ## Final Usability Testing and Refinement
 I ran the final usability test with 6 participants, using an interactive, high-fi prototype of the latest design. The test followed the same process as the previous one. The overall feedback were much more positive than previous ones:
 + **[DISLIKE]** Users were confused about the section "Archived" saying that they had no idea what could possibly in there. The term does not make sense to them.
-+ **[DISLIKE]** There is no way to search content across all the sections. "What if I do not remember where I put it?"*
++ **[DISLIKE]** There is no way to search content across all the sections. *"What if I do not remember where I put it?"*
 + **[LIKE]** The layout of the sidebar is really clear and intuitive.
 + **[LIKE]** Different sections of workspace really helps with further organization of the tabs.
 

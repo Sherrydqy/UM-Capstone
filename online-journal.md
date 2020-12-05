@@ -12,10 +12,10 @@ I ran the final usability test with 6 participants, using an interactive, high-f
 
 Based on the findings, I added a search box to the sidebar allowing for searches across all sections. The Archived section was divided into Archived Workspace and Saved Tabs, which were merged respectively into the Workspace and the Tabs section.
 
-![Design Iteration Final1](/Assets/Final Design4.png)
-![Design Iteration Final2](/Assets/Final Design3.png)
-![Design Iteration Final3](/Assets/Final Design2.png)
-![Design Iteration Final4](/Assets/Final Design1.png)
+![Design Iteration Final1](/Assets/FinalDesign4.png)
+![Design Iteration Final2](/Assets/FinalDesign3.png)
+![Design Iteration Final3](/Assets/FinalDesign2.png)
+![Design Iteration Final4](/Assets/FinalDesign1.png)
 ---
 ##### Oct 15th, 2020 - Nov 1st, 2020
 ## Final Design and Prototype
@@ -25,7 +25,7 @@ I looked up the feasibility and design guidelines for Google Chrome extensions. 
 + **Windows** - current open windows with tags to show the keywords of the webpages within each of them
 + **Archived** - everything that were saved and closed, including archived tabs and archived Workspace
 
-![Design Iteration3](/Assets/3rd design.png)
+![Design Iteration3](/Assets/3rddesign.png)
 
 ---
 ##### Apr 1st, 2020 - Apr 26th, 2020

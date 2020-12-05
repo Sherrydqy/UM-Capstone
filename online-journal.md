@@ -12,10 +12,10 @@ I ran the final usability test with 6 participants, using an interactive, high-f
 
 Based on the findings, I added a search box to the sidebar allowing for searches across all sections. The Archived section was divided into Archived Workspace and Saved Tabs, which were merged respectively into the Workspace and the Tabs section.
 
-![Design Iteration Final](/Assets/Final Design1.png)
-![Design Iteration Final](/Assets/Final Design2.png)
-![Design Iteration Final](/Assets/Final Design3.png)
-![Design Iteration Final](/Assets/Final Design4.png)
+![Design Iteration Final1](/Assets/Final Design4.png)
+![Design Iteration Final2](/Assets/Final Design3.png)
+![Design Iteration Final3](/Assets/Final Design2.png)
+![Design Iteration Final4](/Assets/Final Design1.png)
 ---
 ##### Oct 15th, 2020 - Nov 1st, 2020
 ## Final Design and Prototype
@@ -23,7 +23,8 @@ I looked up the feasibility and design guidelines for Google Chrome extensions. 
 + **Workspace** - tasks that users are working on
 + **Tabs** - current open tabs categorized by automatically generated keywords based on the word frequency in titles of all webpages
 + **Windows** - current open windows with tags to show the keywords of the webpages within each of them
-+ **Archived** - everything that were saved and closed, including archived tabs and archived workspace
++ **Archived** - everything that were saved and closed, including archived tabs and archived Workspace
+
 ![Design Iteration3](/Assets/3rd design.png)
 
 ---
@@ -123,7 +124,8 @@ I coded all 10 interviews in NVivo and came up with the insights. From my interv
 
 ### Finished the rest 5 interviews.
 
-This week, I finished my last 5 interviews in the U.S.. Ready for analyzing the interviews!
+This week, I finished my last 5 interviews in the U.S. Ready for analyzing the interviews!
+
 ---
 ##### Dec 1st, 2019 - Jan 14th, 2020
 ## User Interviews (1/2)
